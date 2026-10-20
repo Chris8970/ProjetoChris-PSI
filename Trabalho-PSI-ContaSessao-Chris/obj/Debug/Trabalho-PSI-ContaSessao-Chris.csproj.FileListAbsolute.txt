@@ -1,0 +1,12 @@
+C:\Users\127355\source\repos\Trabalho-PSI-ContaSessao-Chris\Trabalho-PSI-ContaSessao-Chris\obj\Debug\Trabalho-PSI-ContaSessao-Chris.csproj.AssemblyReference.cache
+C:\Users\127355\source\repos\Trabalho-PSI-ContaSessao-Chris\Trabalho-PSI-ContaSessao-Chris\obj\Debug\Trabalho_PSI_ContaSessao_Chris.Form_IniciarSessao.resources
+C:\Users\127355\source\repos\Trabalho-PSI-ContaSessao-Chris\Trabalho-PSI-ContaSessao-Chris\obj\Debug\Trabalho_PSI_ContaSessao_Chris.Form_Inicial.resources
+C:\Users\127355\source\repos\Trabalho-PSI-ContaSessao-Chris\Trabalho-PSI-ContaSessao-Chris\obj\Debug\Trabalho_PSI_ContaSessao_Chris.Properties.Resources.resources
+C:\Users\127355\source\repos\Trabalho-PSI-ContaSessao-Chris\Trabalho-PSI-ContaSessao-Chris\obj\Debug\Trabalho-PSI-ContaSessao-Chris.csproj.GenerateResource.cache
+C:\Users\127355\source\repos\Trabalho-PSI-ContaSessao-Chris\Trabalho-PSI-ContaSessao-Chris\obj\Debug\Trabalho-PSI-ContaSessao-Chris.csproj.CoreCompileInputs.cache
+C:\Users\127355\source\repos\Trabalho-PSI-ContaSessao-Chris\Trabalho-PSI-ContaSessao-Chris\bin\Debug\Trabalho-PSI-ContaSessao-Chris.exe.config
+C:\Users\127355\source\repos\Trabalho-PSI-ContaSessao-Chris\Trabalho-PSI-ContaSessao-Chris\bin\Debug\Trabalho-PSI-ContaSessao-Chris.exe
+C:\Users\127355\source\repos\Trabalho-PSI-ContaSessao-Chris\Trabalho-PSI-ContaSessao-Chris\bin\Debug\Trabalho-PSI-ContaSessao-Chris.pdb
+C:\Users\127355\source\repos\Trabalho-PSI-ContaSessao-Chris\Trabalho-PSI-ContaSessao-Chris\obj\Debug\Trabalho-PSI-ContaSessao-Chris.exe
+C:\Users\127355\source\repos\Trabalho-PSI-ContaSessao-Chris\Trabalho-PSI-ContaSessao-Chris\obj\Debug\Trabalho-PSI-ContaSessao-Chris.pdb
+C:\Users\127355\source\repos\Trabalho-PSI-ContaSessao-Chris\Trabalho-PSI-ContaSessao-Chris\obj\Debug\Trabalho-PSI-ContaSessao-Chris.exe.config

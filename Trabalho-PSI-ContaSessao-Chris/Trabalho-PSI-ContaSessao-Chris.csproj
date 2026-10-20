@@ -52,8 +52,41 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="Form_CriarConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_CriarConta.Designer.cs">
+      <DependentUpon>Form_CriarConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_Inicial.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_Inicial.Designer.cs">
+      <DependentUpon>Form_Inicial.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_IniciarSessao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_IniciarSessao.Designer.cs">
+      <DependentUpon>Form_IniciarSessao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form_IniciarSessaoConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form_IniciarSessaoConta.Designer.cs">
+      <DependentUpon>Form_IniciarSessaoConta.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_Inicial.resx">
+      <DependentUpon>Form_Inicial.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form_IniciarSessaoConta.resx">
+      <DependentUpon>Form_IniciarSessaoConta.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -62,6 +95,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -75,6 +109,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pngtree-watercolor-green-background-abstract-green-digital-paper-with-texture-picture-image_15268582.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6a398e2bffd61024b7fa8c6eaf6a4e62.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
