@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\127355\\source\\repos\\Trabalho-PSI-ContaSessao-Chris\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93CBC267-73F6-453D-98AB-35386B804583}|Trabalho-PSI-ContaSessao-Chris\\Trabalho-PSI-ContaSessao-Chris.csproj|c:\\users\\127355\\source\\repos\\trabalho-psi-contasessao-chris\\trabalho-psi-contasessao-chris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{93CBC267-73F6-453D-98AB-35386B804583}|Trabalho-PSI-ContaSessao-Chris\\Trabalho-PSI-ContaSessao-Chris.csproj|solutionrelative:trabalho-psi-contasessao-chris\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\127355\\source\\repos\\Trabalho-PSI-ContaSessao-Chris\\Trabalho-PSI-ContaSessao-Chris\\Form1.cs",
+              "RelativeDocumentMoniker": "Trabalho-PSI-ContaSessao-Chris\\Form1.cs",
+              "ToolTip": "C:\\Users\\127355\\source\\repos\\Trabalho-PSI-ContaSessao-Chris\\Trabalho-PSI-ContaSessao-Chris\\Form1.cs [Design]",
+              "RelativeToolTip": "Trabalho-PSI-ContaSessao-Chris\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-20T15:50:56.925Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
